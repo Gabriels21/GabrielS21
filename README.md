@@ -1,6 +1,6 @@
 # Oi 👋
 
-Meu nome é Gabriel, sou Técnico em Informática para Internet e estou no terceiro semestre de Análise e Desenvovimento de Sistemas na Fatec de Praia Grande.
+Meu nome é Gabriel, sou Técnico em Informática para Internet e estou no terceiro semestre de Análise e Desenvovimento de Sistemas na Fatec Praia Grande.
 
 ## Tenho experiência com:
 
