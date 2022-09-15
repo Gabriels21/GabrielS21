@@ -18,7 +18,7 @@ Meu nome é Gabriel, sou Técnico em Informática para Internet e estou no terce
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   
-- #### 📘 Estou estudando:
+- #### 📙📖 Estou estudando:
  
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
