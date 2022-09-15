@@ -27,8 +27,8 @@ Meu nome é Gabriel, sou Técnico em Informática para Internet e estou no terce
   
   <div align="center">
     <a href="https://github.com/Gabriels21">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gabriels21&show_icons=true&theme=react" alt="Gabriels21 GitHub stats"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriels21&layout=compact&show_icons=true&theme=react" alt="Gabriels21 GitHub stats"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gabriels21&show_icons=true&theme=react" alt="Gabriels21 GitHub stats"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriels21&layout=compact&show_icons=true&theme=react" alt="Gabriels21 GitHub stats"/>
   </div>
   
 <!--
