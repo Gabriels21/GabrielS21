@@ -21,6 +21,7 @@ Meu nome é Gabriel, sou Técnico em Informática para Internet e estou no terce
   <img alt="JavaScript" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
 ![Gabriers21 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriels21&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriels21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Gabriels21/GabrielS21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
