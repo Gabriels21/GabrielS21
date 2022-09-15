@@ -20,9 +20,11 @@ Meu nome é Gabriel, sou Técnico em Informática para Internet e estou no terce
  
   <img alt="JavaScript" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   
-  <img heigth = "180em" src="https://github-readme-stats.vercel.app/api?username=Gabriels21&show_icons=true&theme=radical" alt="Gabriels21 GitHub stats"/>
-  <img heigth = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriels21&layout=compact" alt="Gabriels21 GitHub stats"/>
- 
+  <div>
+    <img heigth = "180em" src="https://github-readme-stats.vercel.app/api?username=Gabriels21&show_icons=true&theme=radical" alt="Gabriels21 GitHub stats"/>
+    <img heigth = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriels21&layout=compact" alt="Gabriels21 GitHub stats"/>
+  </div>
+  
 <!--
 **Gabriels21/GabrielS21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
