@@ -13,8 +13,6 @@ Meu nome é Gabriel, sou Técnico em Informática para Internet e estou no quart
   <img height="30" width="70" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img height="30" width="100" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   
-  
-  
 - #### 📘 Já estudei:
   
   <img height="30" width="70" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -33,9 +31,9 @@ Meu nome é Gabriel, sou Técnico em Informática para Internet e estou no quart
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabriels21&show_icons=true&theme=react" alt="Gabriels21 GitHub stats"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriels21&layout=compact&show_icons=true&theme=react" alt="Gabriels21 GitHub stats"/>
   </div>
-<hr>
+  <hr>
  
-## Contato
+ ## 📫 Contato
   
 <a href="https://www.linkedin.com/in/gabriel-dos-santos-santana-48a602237/" target="_blank"><img height="30" width="110" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   
