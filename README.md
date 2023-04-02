@@ -2,6 +2,8 @@
 
 Meu nome é Gabriel, sou Técnico em Informática para Internet e estou no quarto semestre de Análise e Desenvovimento de Sistemas na Fatec Praia Grande.
 
+Recentemente participei do desenvolvimento de um website na faculdade, exercendo a função de frontend e backend utilizando Java e BootStrap.
+
 ## Experiência Acadêmica:
 
 - #### 💼 Tenho experiência em:
